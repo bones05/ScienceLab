@@ -1,0 +1,51 @@
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\bin\Debug\Science.exe.config
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\bin\Debug\Science.exe
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\bin\Debug\Science.pdb
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.Properties.Resources.resources
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.exe
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.pdb
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.Form1.resources
+c:\users\shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.SupplierDetails.resources
+C:\Users\Shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.WelcomeForm.resources
+C:\Users\Shannon\documents\visual studio 2010\Projects\Science\Science\bin\Debug\Science.exe.manifest
+C:\Users\Shannon\documents\visual studio 2010\Projects\Science\Science\bin\Debug\Science.application
+C:\Users\Shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.exe.manifest
+C:\Users\Shannon\documents\visual studio 2010\Projects\Science\Science\obj\x86\Debug\Science.application
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\OLEDBsciencedbDataSet.xsd
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\sciencedbDataSet.xsd
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\OLEDBsciencedbDataSet.Designer.cs
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\sciencedbDataSet.cs
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\sciencedbDataSet.Designer.cs
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\OLEDBsciencedbDataSet.xsc
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\OLEDBsciencedbDataSet.xss
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\sciencedbDataSet.xsc
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\sciencedbDataSet.xss
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\Science.exe.config
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\Science.exe.manifest
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\Science.application
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\Science.exe
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\Science.pdb
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\Interop.AccessImagine.dll
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\AxInterop.AccessImagine.dll
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Interop.AccessImagine.dll
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\AxInterop.AccessImagine.dll
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.EquipmentDetails.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.addequipment.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.equipmentlocation.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.newphysicallocation.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.Properties.Resources.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.SupplierDetails.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.updatepics.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.WelcomeForm.resources
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.exe.manifest
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.application
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.exe
+C:\Users\Administrator\Desktop\science\Science\obj\x86\Debug\Science.pdb
+C:\Users\Administrator\Desktop\science\Science\bin\Debug\sciencedb.accdb
